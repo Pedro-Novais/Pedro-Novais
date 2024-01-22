@@ -18,9 +18,11 @@ Estou focado(a) em me aprimorar em desenvolvimento web, backend mais específica
 
 ### 🔧 Projetos em Destaque
 
-- Lista de Tarefas(link do projeto): Como todo programador, eu também criei minha Lista To-do, porém essa contém um diferencial, que é a criação de todo um banco de dados para ser servidana web
+- 📝 Lista de Tarefas(https://github.com/Pedro-Novais/JSON): Como todo programador, eu também criei minha Lista To-do, porém essa contém um diferencial, que é a criação de todo um banco de dados para ser servidana web
   com funcionalidades que permite um usúario visualizar o perfil e mais coisas sobre outros usúarios, enfim, fiz o conceito simples de sempre, porém adicionei a complexidade que pouco é visto,
   e com esse projeto tive uma ótima evolução com minhas habilidades de desenvolvimento web.
+
+  
 - Dashboard(link do projeto): Um projeto que apresenta um Dashboard para análse de dados, porém com todos os dados mocados em um objeto. Esse foi um projeto com o foco mais no visual utilizando SCSS
 - ...
 
