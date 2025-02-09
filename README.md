@@ -29,7 +29,7 @@ porém tenho a meta de alcançar a vaga de desenvolvedor logo mais.
 
 ### 🤝 Conecte-se comigo
 
-- LinkedIn: https://www.linkedin.com/in/pedro-henrique-novais-7610ab1b6/
+- LinkedIn: [Pedro Henrique Novais]https://www.linkedin.com/in/pedro-henrique-novais-7610ab1b6/
 linke
 ### 📬 Como me Encontrar
 
