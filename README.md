@@ -22,7 +22,7 @@ porém tenho a meta de alcançar a vaga de desenvolvedor logo mais.
 - E-commerce [BackEnd](https://github.com/Pedro-Novais/e-commerce): API completa para e-commerce, desde autenticação criptografada, integração com gateways de pagamentos, e todas funcionalidades necessárias para o funcionamento
 - E-commerce [FrontEnd](https://github.com/Pedro-Novais/e-commerce-UI): Interface do e-commerce com integração com banco de dados
 
-- Automação de Emaisl(https://github.com/Pedro-Novais/Automacao-Emails): Automação de email realizada em python, com funcionalidade de envio de emails a partir de uma planilha do excel, com possibilidades de envio de anexos PDF e imagens
+- Automação de Emaisl [Automação](https://github.com/Pedro-Novais/Automacao-Emails): Automação de email realizada em python, com funcionalidade de envio de emails a partir de uma planilha do excel, com possibilidades de envio de anexos PDF e imagens
 
 ### 📈 Estatísticas do Git
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Novais&show_icons=true&theme=dark)
